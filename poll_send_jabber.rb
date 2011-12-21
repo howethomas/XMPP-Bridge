@@ -1,4 +1,8 @@
 #!/usr/bin/env ruby 
+# This is a test file that sends a message to the 
+# named XMPP server every so often.
+
+
 require 'rubygems'
 require 'xmpp4r-simple'
 
